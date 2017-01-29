@@ -17,7 +17,7 @@ Każdy nowo dodany licznik dostaje id o jeden większe od poprzednika. Jeżeli n
 ## Widoki
 
 ### Main View
-![alt text](main-view.PNG "Main View")
+![alt text](/src/images/main-view.PNG "Main View")
 
 #### Opis widoku
 1. Przycisk dodawania nowego licznika,
@@ -40,7 +40,7 @@ Każdy nowo dodany licznik dostaje id o jeden większe od poprzednika. Jeżeli n
 - Zmiana wartości licznika (Set) posiada pełną walidację.
 
 ### Add Counter Modal View - dodawanie nowego licznika
-![alt text](add-counter-modal-view.PNG "Add Counter Modal")
+![alt text](/src/images/add-counter-modal-view.PNG "Add Counter Modal")
 
 #### Opis widoku
 1. Zamknięcie okna,
@@ -56,7 +56,7 @@ Każdy nowo dodany licznik dostaje id o jeden większe od poprzednika. Jeżeli n
 - Okno dodawania posiada pełną walidację.
 
 ### Get Value Modal View - wyświetlanie wartości konkretnego licznika
-![alt text](get-value-modal-view.PNG "Get Value Modal")
+![alt text](/src/images/get-value-modal-view.PNG "Get Value Modal")
 
 #### Opis widoku
 1. Zamknięcie okna, 
