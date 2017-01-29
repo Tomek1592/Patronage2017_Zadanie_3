@@ -10,7 +10,7 @@ Link do ukończonego kursu na Codeacademy: https://www.codecademy.com/Tomek1592
 
 ## Widoki
 
-![alt text](main-view.png "Main View")
+![alt text](main-view.PNG "Main View")
 
 ![alt text](add-counter-modal-view.png "Add Counter Modal")
 
