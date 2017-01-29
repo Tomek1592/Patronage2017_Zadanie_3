@@ -34,6 +34,7 @@ Każdy nowo dodany licznik dostaje id o jeden większe od poprzednika. Jeżeli n
 #### Funkcjonalności
 - Kiedy wartość licznika wynosi 0, przycisk "-" i "reset" są nieaktywne,
 - Kiedy wartość licznika jest maksymalna, przycisk "+" jest nieaktywny,
+- Po wpisaniu wartości niecałkowitej, zostanie ona zaokrąglona w dół (np. 2,3 zostanie zapisana jako 2),
 - Po naciśnięciu przycisku get, zostaje otwarty modal Get Modal,
 - Po naciśnięciu litery 'X' w prawym górnym rogu licznika, zostaje on usunięty,
 - Zmiana wartości licznika (Set) posiada pełną walidację.
