@@ -4,9 +4,15 @@
 
 Link do ukończonego kursu na Codeacademy: https://www.codecademy.com/Tomek1592
 
+## Technologie
+
+1. Vue.js
+2. Bulma.css
+3. Webpack-simple
+
 ## Licznik (Score)
 
-
+Każdy nowo dodany licznik dostaje id o jeden większe od poprzednika. Jeżeli nie ma żadnego licznika, id licznika przyjmuje wartość 1.
 
 ## Widoki
 
@@ -26,7 +32,11 @@ Link do ukończonego kursu na Codeacademy: https://www.codecademy.com/Tomek1592
 10. Resetowanie licznika do wartości 0 (w zależności od formatowania).
 
 #### Funkcjonalności
-
+- Kiedy wartość licznika wynosi 0, przycisk "-" i "reset" są nieaktywne,
+- Kiedy wartość licznika jest maksymalna, przycisk "+" jest nieaktywny,
+- Po naciśnięciu przycisku get, zostaje otwarty modal Get Modal,
+- Po naciśnięciu litery 'X' w prawym górnym rogu licznika, zostaje on usunięty,
+- Zmiana wartości licznika (Set) posiada pełną walidację.
 
 ### Add Counter Modal View - dodawanie nowego licznika
 ![alt text](add-counter-modal-view.PNG "Add Counter Modal")
