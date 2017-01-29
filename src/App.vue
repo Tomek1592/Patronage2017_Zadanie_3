@@ -50,8 +50,6 @@
             }
         },
 
-        computed: {},
-
         methods: {
             addCounter (newCounterValue, newCounterFormat) {
                 if (this.counters.length !== 0) {
